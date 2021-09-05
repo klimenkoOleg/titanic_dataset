@@ -1,4 +1,4 @@
-# titanic_dataset
+# Machine Learning Titanic dataset
 
 
 This classic Titanic dataset used for Machne Learning to train model 
