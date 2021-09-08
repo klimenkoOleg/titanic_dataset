@@ -8,3 +8,28 @@ The Encyclopedia Titanica website (https://www.encyclopedia-titanica.org/) is th
 The Titanic datasetis also the subject of the introductory competition on Kaggle.com (requires opening an account with Kaggle).
 
 This repo contain Titanic datasets in different formats.
+
+## Data description:
+
+Survival - Survival (0 = No; 1 = Yes). Not included in test.csv file.
+
+Pclass - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
+
+Name - Name
+
+Sex - Sex
+
+Age - Age
+
+Sibsp - Number of Siblings/Spouses Aboard
+
+Parch - Number of Parents/Children Aboard
+
+Ticket - Ticket Number
+
+Fare - Passenger Fare
+
+Cabin - Cabin
+
+Embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+
